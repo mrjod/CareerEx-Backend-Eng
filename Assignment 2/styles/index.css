@@ -1,0 +1,61 @@
+nav{
+    background: #2babcb;
+    padding: 20px;
+}
+ul li{
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 30px;
+    color: azure;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+section{
+    border-radius: 3px;
+    border-color: #016b86;
+    border-style: Solid;
+    margin: 10px 100px;
+    padding: 20px 40px;
+
+}
+
+.section1{
+    background-color: rgb(74, 133, 159);
+}
+
+.section2{
+    background-color: rgb(59, 112, 156);
+}
+
+.section3{
+    background-color: rgb(140, 230, 230);
+}
+
+section h2{
+    color: rgb(69, 203, 240);
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section p{
+    color: rgb(242, 242, 242);
+    font-size: 15px;
+    font-size: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 179, 255);
+    border-color: rgb(6, 141, 252);
+    padding: 10px 50px;
+    
+}
+
+section img{
+    width: 500px;
+    
+}
